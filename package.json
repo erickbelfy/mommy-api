@@ -1,0 +1,24 @@
+{
+  "name": "mommy-api",
+  "version": "1.0.0",
+  "description": "backend api to provide endpoint to the main application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickbelfy/mommy-api.git"
+  },
+  "keywords": [
+    "api",
+    "mommy",
+    "app"
+  ],
+  "author": "Erick Belfort",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erickbelfy/mommy-api/issues"
+  },
+  "homepage": "https://github.com/erickbelfy/mommy-api#readme"
+}
